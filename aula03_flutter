@@ -1,0 +1,12 @@
+void main() {
+  
+  var nome = "BeaTriz";
+  
+ if (nome == "BeaTriz"){
+   print( 'valor da variável correto!');
+ }else{
+   print('valor de variável incorreto!');
+   }
+ 
+}
+
